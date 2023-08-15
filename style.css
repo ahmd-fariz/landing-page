@@ -1,0 +1,92 @@
+html{
+
+    position: relative;
+    width: 1512px;
+    height: 982px;
+    
+    background: #FFFFFF;
+
+}
+
+.navbar{
+position: absolute;
+width: 1512px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;  
+}
+
+.navbar p {
+    
+position: absolute;
+width: 68px;
+height: 29px;
+left: 1015px;
+top: 17px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.navbar p2{
+    position: absolute;
+width: 85px;
+height: 29px;
+left: 1139px;
+top: 17px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+/* teks hitam */
+
+color: #010101;
+
+}
+
+.navbar p3{
+    position: absolute;
+width: 94px;
+height: 29px;
+left: 1263px;
+top: 18px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+/* teks hitam */
+
+color: #010101;
+}
+
+.navbar p4{
+    position: absolute;
+width: 88px;
+height: 29px;
+left: 1388px;
+top: 18px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+/* teks hitam */
+
+color: #010101;
+
+}
